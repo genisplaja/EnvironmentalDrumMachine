@@ -27,5 +27,6 @@ assumes that the drum patterns are written correctly, and that the folder struct
 in the right way. While we increasr the robustness of the application, please make sure you write the patterns well
 and organize the sounds as they are organized now.
 
-If you have doubts or problems reproducing the experiment, please contact me at genis.plaja01@estudiant.upf.edu
-or send me a message through the MTG Slack Channel. Thanks!!
+If you have doubts or problems reproducing the experiment, please contact me at genis.plaja01@estudiant.upf.edu.
+
+Thanks:)
