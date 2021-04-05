@@ -27,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -215,7 +216,7 @@
       <updated>1617556508982</updated>
       <workItem from="1617556512839" duration="10087000" />
       <workItem from="1617617736016" duration="4584000" />
-      <workItem from="1617631007029" duration="158000" />
+      <workItem from="1617631007029" duration="239000" />
     </task>
     <servers />
   </component>
