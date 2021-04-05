@@ -22,5 +22,6 @@ unvoiced regions from them. You can review the implementation of this approach i
 The ./patterns folder contains example patterns written in JSON format. Further detail and instruction to create
 your own patterns is given in the notebook.
 
-If you have doubts or problems reproducing the experiment, please contact me at genis.plaja01@estudiant.upf.edu
-or send me a message through the MTG Slack Channel. Thanks!!
+If you have doubts or problems reproducing the experiment, please contact me at genis.plaja01@estudiant.upf.edu.
+
+THANKS!
